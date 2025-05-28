@@ -9,4 +9,9 @@ public class Employees {
 	int employeeID1 = 1234;
 	int employeeID2 = 1235;
 	int employeeID3 = 1236;
-	}
+	
+public static void main(String[] args)
+{
+Employees emp = new Employees();
+}
+}
