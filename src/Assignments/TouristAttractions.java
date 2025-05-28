@@ -8,7 +8,7 @@ public static void main(String[] args) {
 LinkedList<String> attractions = new LinkedList<String>();
 attractions.add("Taj Mahal");
 attractions.add("Eiffel Tower");
-attractions.add("Great wall of chine");
+attractions.add("Great wall of china");
 attractions.add("Colosseum");
 attractions.add("Bora Bora");
 attractions.add("Grand Canyon");

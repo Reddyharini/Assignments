@@ -3,7 +3,7 @@ package Assignments;
 public class Employees {
 	//Separate variable for employees
 	String employeeName1= "Bharath";
-	String employeeName2 = "ABC";
+	String employeeName2 = "ABCD";
 	String employeeName3 = "XYZ";
 	//Separate variable for IDs
 	int employeeID1 = 1234;

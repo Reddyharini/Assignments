@@ -47,7 +47,7 @@ public class DataTypes {
 		        		System.out.println("SocialMediaFollowers" + SocialMediaFollowers); 
 	        //12.Rating of a movie: 7.5
 		        		float MovieRating =7.5f;
-		        		System.out.println("MovieRating" + MovieRating);
+		        		System.out.println("MovieRatings" + MovieRating);
 	        //13.Person's blood type: 'A'
 		        		char BloodType = 'A';
 		        		System.out.println("BloodType " + BloodType);

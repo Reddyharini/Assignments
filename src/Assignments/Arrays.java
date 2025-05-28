@@ -11,7 +11,7 @@ public class Arrays {
 	                {"Chemistry", "Fail(21)"},
 	                {"Computer Programming", "Pass(74)"},
 	                {"Engineering Drawing", "Pass(88)"},
-	                {"Basic Electrical Eng.", "Pass(79)"}
+	                {"Basic Electrical Eng.", "Pass(80)"}
 	            },
 	            { // Semester 2
 	                {"Mathematics II", "Pass(82)"},
