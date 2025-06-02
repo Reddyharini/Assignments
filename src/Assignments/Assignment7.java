@@ -21,7 +21,7 @@ public class Assignment7 {
 	                    if (debtToIncomeRatio < 40) {
 	                        isEligible = true; // Approved
 	                    } else {
-	                        isEligible = false; // Denied due to high DTI ratio
+	                        isEligible = false; // Denied due to high ratio
 	                    }
 	                } else {
 	                    isEligible = false; // Denied due to unemployment
